@@ -1,0 +1,27 @@
+# Visual Studio cache and build folders
+.vs/
+*.user
+*.suo
+*.vssscc
+*.vspscc
+*.dbmdl
+*.bak
+*.log
+*.obj
+*.pdb
+*.cache
+*.db
+*.sdf
+*.opendb
+*.ipch
+*.sln.docstates
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# OS files
+Thumbs.db
+.DS_Store

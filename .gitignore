@@ -1,0 +1,22 @@
+# Ignore Visual Studio and temporary files
+.vs/
+*.user
+*.suo
+*.vsidx
+*.vssscc
+*.dbmdl
+*.cache
+*.log
+*.obj
+*.pdb
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# OS junk
+Thumbs.db
+.DS_Store
+
