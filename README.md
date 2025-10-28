@@ -4,7 +4,7 @@
 ## Directory Breakdown
     /Scraper
         L LinkedIn
-    /Detection        # Used for comparing the employees against 
+    /Detection        # Used for comparing the employees against databases of known AI
         L deepfake.py
         L AI_Voice.py
         L AI_Writing.py
