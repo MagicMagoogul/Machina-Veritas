@@ -13,3 +13,8 @@
         L Output_XXX.xlsx
 ## How to run (Dependencies)
     - For ubuntu linux, run install.py
+
+## Some videos online about this vulnerability
+    - https://www.youtube.com/watch?v=0JlDzlX0Uqw&t=3s
+    - https://www.youtube.com/watch?v=Hd6J0FF0SzI&t=79s
+    - https://www.youtube.com/watch?v=Hd6J0FF0SzI&t=79s
