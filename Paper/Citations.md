@@ -6,7 +6,7 @@
 
 [Ninjo Article](https://ninjio.com/2025/09/blog-deepfake-cyberattacks-employee-protection-human-risk-management/)
 
-[Infosecurity Article](https://www.infosecurity-magazine.com/news/deepfake-attacks-hit-twothirds-of/)_
+[Infosecurity Article](https://www.infosecurity-magazine.com/news/deepfake-attacks-hit-twothirds-of/)
  
     Deepfakes have democratized sophisticated cyberattacks by removing technical barriers that once protected organizations. 
     IBM’s 2025 X-Force Threat Intelligence Index reveals that threat actors are increasingly using AI to build websites and incorporate deepfakes in phishing attacks, 
